@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pranav P
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning MEARN
+- 🌱 I’m currently vibe coding in MERN Stack
